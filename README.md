@@ -1,4 +1,4 @@
-# Computer Build
+
 # How to Build a Computer
 
 ## Introduction
