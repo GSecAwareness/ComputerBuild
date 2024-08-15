@@ -50,6 +50,8 @@ Set up a clean, static-free workspace where you can lay out all your components.
 3. Lay out all your components and tools.
 
 
+<div style="display: flex;">
+    <img src="https://github.com/GSecAwareness/GSecAwareness/blob/main/IMG_0997.JPG" alt="Computer Setup" width="500"/>
+    <img src="https://github.com/GSecAwareness/GSecAwareness/blob/main/IMG_0999.JPG" alt="Computer Setup" width="500" style="margin-left: 10px;"/>
+</div>
 
-![Prepare Your Workspace](https://github.com/GSecAwareness/GSecAwareness/blob/main/IMG_0997.JPG)
-![Prepare Your Workspace](https://github.com/GSecAwareness/GSecAwareness/blob/main/IMG_0999.JPG)
