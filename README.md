@@ -10,7 +10,7 @@ While the content may evolve over time, it reflects the knowledge I've gained fr
 ## Table of Contents
 - [Introduction](#introduction)
 - [Components Required](#components-required)
-- [Step 1: Prepare Your Workspace](#step-1-prepare-your-workspace)
+- [Step 1: Prepare Your Workspace and the Case](#step-1-prepare-your-workspace)
 - [Step 2: Install the CPU](#step-2-install-the-cpu)
 - [Step 3: Install the RAM](#step-3-install-the-ram)
 - [Step 4: Install the Motherboard](#step-4-install-the-motherboard)
@@ -48,10 +48,16 @@ Set up a clean, static-free workspace where you can lay out all your components.
 1. Clear a large, flat surface.
 2. Ground yourself to prevent static damage (use an anti-static wristband if available).
 3. Lay out all your components and tools.
-
+4. Prepare the case. Unscrew the side panels and take them off.
+5. Pull out any case wiring. This will make our lives much easier later!
 
 <div style="display: flex;">
     <img src="https://github.com/GSecAwareness/GSecAwareness/blob/main/IMG_0997.JPG" alt="Computer Setup" width="500"/>
     <img src="https://github.com/GSecAwareness/GSecAwareness/blob/main/IMG_0999.JPG" alt="Computer Setup" width="500" style="margin-left: 10px;"/>
 </div>
+<div style="display: flex;">
+    <img src="https://github.com/GSecAwareness/GSecAwareness/blob/main/IMG_0998.JPG" alt="Computer Setup" width="500"/>
+    <img src="https://github.com/GSecAwareness/GSecAwareness/blob/main/IMG_1002.JPG" alt="Computer Setup" width="500" style="margin-left: 10px;"/>
+</div>
+
 
