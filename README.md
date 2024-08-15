@@ -1,5 +1,5 @@
 
-# How to Build a Computer
+# How to Build a Computer 🖥️
 
 ## Introduction
 Building a computer is a rewarding experience that offers a deeper understanding of how your machine works and allows for complete customization to suit your needs. 
