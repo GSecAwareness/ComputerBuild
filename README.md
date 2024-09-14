@@ -2,9 +2,7 @@
 # How to Build a Computer 🖥️
 
 ## Introduction
-Building a computer is a rewarding experience that offers a deeper understanding of how your machine works.  
-This tutorial is a work in progress, as I'm using it to learn and practice Markdown for my GitHub page. 
-While the content may evolve over time, it reflects the knowledge I've gained from building hundreds of computers over the years.
+Building a computer is an exciting and rewarding process that helps you gain a better understanding of how your system operates. While this tutorial won't guide you through your personal build due to the wide range of part sizes and configurations, it will show you the general steps and introduce you to the key components involved.
 ---
 
 ## Table of Contents
