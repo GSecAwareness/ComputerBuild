@@ -34,3 +34,8 @@ With a basic build, it's easier to install the RAM, M.2, CPU, and cooler onto th
 
  <div style="display: flex;">
     <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part2/IMG_1040.JPG" alt="Computer Setup" width="500"/>
+
+8. Install the I/O Panel (Input/Output) install the case before placing the motherboard.
+ <div style="display: flex;">
+    <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part2/IMG_1040.JPG" alt="Computer Setup" width="500"/>
+
