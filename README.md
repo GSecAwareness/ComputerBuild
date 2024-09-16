@@ -6,13 +6,11 @@ Building a computer is an exciting and rewarding process that helps you gain a b
 ---
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Components Required](#components-required)
-- [Step 1: Prepare Your Workspace and the Case](#step-1-prepare-your-workspace)
-- [Step 2: Prepare the Motherboard](#step-2-motherboard)
-- [Step 3: Install the CPU](#step-3-install-the-cpu)
-- [Step 4: Install the RAM](#step-4-install-the-ram)
-- [Step 4: Install the Motherboard](#step-4-install-the-motherboard)
+- Introduction
+- Components Required
+- Step 1: Prepare Your Workspace and the Case
+- Step 2: Prepare the Motherboard
+- Step 4: Install the Motherboard
 - [Step 5: Install the Power Supply](#step-5-install-the-power-supply)
 - [Step 6: Install Storage Devices](#step-6-install-storage-devices)
 - [Step 7: Install the Graphics Card](#step-7-install-the-graphics-card)
