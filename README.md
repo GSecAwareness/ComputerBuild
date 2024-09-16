@@ -8,7 +8,7 @@ Building a computer is an exciting and rewarding process that helps you gain a b
 ## Table of Contents
 - Introduction
 - Components Required
-- Initial Setup of the Work Space and Case
+- Initial Setup of the Workspace and Case
 - Prepare the Motherboard
 - Step 4: Install the Motherboard
 - [Step 5: Install the Power Supply](#step-5-install-the-power-supply)
@@ -35,7 +35,7 @@ Before starting, make sure you have all the necessary components:
 
 ---
 
-## Step 1: Prepare Your Workspace
+## Step 1: Inital Setup of the Workspace and Case
 ### Description
 Set up a clean, static-free workspace where you can lay out all your components. Make sure you have all the tools you'll need, such as a screwdriver.
 
