@@ -8,8 +8,8 @@ Building a computer is an exciting and rewarding process that helps you gain a b
 ## Table of Contents
 - Introduction
 - Components Required
-- Step 1: Prepare Your Workspace and the Case
-- Step 2: Prepare the Motherboard
+- Initial Setup of the Work Space and Case
+- Prepare the Motherboard
 - Step 4: Install the Motherboard
 - [Step 5: Install the Power Supply](#step-5-install-the-power-supply)
 - [Step 6: Install Storage Devices](#step-6-install-storage-devices)
