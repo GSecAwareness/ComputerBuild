@@ -13,6 +13,7 @@ With a basic build, it's easier to install the RAM, M.2, CPU, and cooler onto th
 2. **Install the RAM stick(s).** The correct configuration is typically printed on the motherboard in small print (A2, B2 first). Installing RAM in the wrong slot may result in no video output when you power on the system.
 
 <div style="display: flex;">
+    <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part2/IMG_1014.JPG" alt="Computer Setup" width="500"/>
     <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part2/IMG_1017.JPG" alt="Computer Setup" width="500"/>
     
 3. **Install the CPU.** On the back of the CPU, there's an arrow. Align it with the arrow on the CPU socket before placing it in the socket. This step is crucial, and the marking on the socket should be clear.   
