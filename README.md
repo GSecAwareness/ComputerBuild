@@ -9,7 +9,7 @@ Building a computer is an exciting and rewarding process that helps you gain a b
 - Introduction
 - Components Required
 - Initial Setup of the Workspace and Case
-- Prepare the Motherboard
+- [Prepare the Motherboard](https://github.com/GSecAwareness/ComputerBuild/blob/main/part2/s2-mobo.md)
 - Step 4: Install the Motherboard
 - [Step 5: Install the Power Supply](#step-5-install-the-power-supply)
 - [Step 6: Install Storage Devices](#step-6-install-storage-devices)
