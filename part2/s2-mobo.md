@@ -29,4 +29,7 @@ With a basic build, it's easier to install the RAM, M.2, CPU, and cooler onto th
 
 
 6. Check the components for looseness. It's easy to misplace RAM.  
-7. Check the back of the board. Can you see the white plastic posts sticking through from the CPU cooler? If you can, this indicates the cooler is properly installed.   
+7. Check the back of the board. Can you see the white plastic posts sticking through from the CPU cooler? If you can, this indicates the cooler is properly installed.
+
+ <div style="display: flex;">
+    <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part2/IMG_1040.JPG" alt="Computer Setup" width="500"/>
