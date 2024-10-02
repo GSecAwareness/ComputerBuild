@@ -27,7 +27,8 @@ With a basic build, it's easier to install the RAM, M.2, CPU, and cooler onto th
 
 ---
     
-4. **Install the CPU cooler over the CPU.** In this example, we are using a stock cooler. The brand name is imprinted on the face of the cooler, and I usually position it facing upwards. Plug the fan power cord into the small connector to the upper right of the CPU. It should read **CPU FAN** I understand that the board is inside the case, but that is because we had a dead CPU fan and had to replace it. Unfortunately, these were the only pictures we had of installing the fan on the CPU.
+4. **Install the CPU cooler over the CPU.** In this example, we are using a stock cooler. The brand name is imprinted on the face of the cooler, and I usually position it facing upwards. Plug the fan power cord into the small connector to the upper right of the CPU. It should read **CPU FAN**
+I understand that the board is inside the case, but that is because we had a dead CPU fan and had to replace it. Unfortunately, these were the only pictures we had of installing the fan on the CPU.
 
 <div style="display: flex;">
     <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part2/IMG_1038.JPG" alt="Computer Setup" width="500"/>
