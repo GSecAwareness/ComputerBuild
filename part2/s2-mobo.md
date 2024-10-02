@@ -55,4 +55,10 @@ With a basic build, it's easier to install the RAM, M.2, CPU, and cooler onto th
    <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part2/IMG_1077.JPG" alt="Computer Setup" width="500"/>
    <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part2/IMG_1078.JPG" alt="Computer Setup" width="500"/>
 
+   Take a quick look at your hard work. The hard part is complete. In the next section, we will plug in the USB 3.0, USB headers, and install some more components!  
+   
+<div style="display: flex;">
+    <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part2/IMG_1079.JPG" alt="Computer Setup" width="500"/>
+   
+
 
