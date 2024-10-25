@@ -1,6 +1,13 @@
+# Preparing and Placing the Motherboard
+
+<b>Table of Contents</b>
+   - [Introduction and Initial Setup](https://github.com/GSecAwareness/ComputerBuild/blob/main/README.md)
+   - [Preparing and Placing the Motherboard](https://github.com/GSecAwareness/ComputerBuild/blob/main/part2/s2-mobo.md)
+   - [Installing the Optical Drive, PSU, and Connections](https://github.com/GSecAwareness/ComputerBuild/blob/main/part3/part3.md)
+
 ## Step 1: Prepare The Motherboard
-### Description
-With a basic build, it's easier to install the RAM, M.2, CPU, and cooler onto the motherboard while it's outside the case. The lighting is often better, and you can more easily position the components when working outside of the case.
+
+### With a basic build, it's easier to install the RAM, M.2, CPU, and cooler onto the motherboard while it's outside the case. The lighting is often better, and you can more easily position the components when working outside of the case.
 
 ---
 
