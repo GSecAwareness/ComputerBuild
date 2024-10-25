@@ -2,21 +2,15 @@
 # How to Build a Computer 🖥️
 
 ## Introduction
-Building a computer is an exciting and rewarding process that helps you gain a better understanding of how your system operates. While this tutorial won't guide you through your personal build due to the wide range of part sizes and configurations, it will show you the general steps and introduce you to the key components involved.
+
+### Building a computer is an exciting and rewarding process that helps you gain a better understanding of how your system operates. While this tutorial won't guide you through your personal build due to the wide range of part sizes and configurations, it will show you the general steps and introduce you to the key components involved.
 ---
 
 ## Table of Contents
-- Introduction
-- Components Required
-- Initial Setup of the Workspace and Case
-- [Prepare the Motherboard](https://github.com/GSecAwareness/ComputerBuild/blob/main/part2/s2-mobo.md)
-- Step 4: Install the Motherboard
-- [Step 5: Install the Power Supply](#step-5-install-the-power-supply)
-- [Step 6: Install Storage Devices](#step-6-install-storage-devices)
-- [Step 7: Install the Graphics Card](#step-7-install-the-graphics-card)
-- [Step 8: Connect the Cables](#step-8-connect-the-cables)
-- [Step 9: Test and Power On](#step-9-test-and-power-on)
-- [Conclusion](#conclusion)
+<b>Computer Build Tutorial</b>
+   - [Introduction and Initial Setup](https://github.com/GSecAwareness/ComputerBuild/blob/main/README.md)
+   - [Preparing and Placing the Motherboard](https://github.com/GSecAwareness/ComputerBuild/blob/main/part2/s2-mobo.md)
+   - [Installing the Optical Drive, PSU, and Connections](https://github.com/GSecAwareness/ComputerBuild/blob/main/part3/part3.md)
 
 ---
 
