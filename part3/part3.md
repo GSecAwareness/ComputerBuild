@@ -62,9 +62,18 @@
     <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part3/IMG_1049.JPG" alt="Computer Setup" width="500"/>    
     <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part3/IMG_1050.JPG" alt="Computer Setup" width="500"/>      
 
+---
 8. **At this stage, I typically begin organizing and securing the cables at the back of the case using zip ties. This practice of grouping cables together and fastening them helps improve airflow within the case, which is crucial for maintaining optimal temperatures for your components.** 
 
    **By tying down cables, you minimize clutter and reduce the risk of interfering with fans. It's beneficial to route the cables along the edges of the case and keep them away from areas where they could get pinched or damaged. Consider labeling your cables or using different colored zip ties for easier identification, especially if you have multiple SATA drives or other peripherals. This attention to detail will create a cleaner build, making future upgrades or repairs much simpler.** 
 
 <div style="display: flex;">
-    <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part3/IMG_1049.JPG" alt="Computer Setup" width="500"/>    
+    <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part3/IMG_1047.JPG" alt="Computer Setup" width="500"/>    
+
+---
+9. **Next we need to install the graphics card**
+
+<div style="display: flex;">
+    <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part3/IMG_1048.JPG" alt="Computer Setup" width="500"/>   
+
+    
