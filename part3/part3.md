@@ -40,7 +40,8 @@
 4. **Slide the optical drive into the chassis and secure it with screws, ensuring it fits snugly in place to avoid any vibrations during operation. Make sure the drive is oriented correctly for easy access to its front panel. Once the optical drive is secured, plug the SATA cable into the corresponding port on the drive to establish the data connection. The SATA cable allows data to transfer between the optical drive and the motherboard, enabling the system to read and write data from discs. Once we install the PSU, we will connect the SATA power cable to the optical drive, ensuring it has the necessary power to function.**  
     
 <div style="display: flex;">
-    <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part3/1.PNG" alt="Computer Setup" width="500"/>    
+    <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part3/IMG_1111%5B1%5D.JPG" alt="Computer Setup" width="500"/>      
+     <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part3/IMG_1112%5B1%5D.JPG" alt="Computer Setup" width="500"/>
 
 ---
 5. **I placed the PSU on the table to familiarize myself with the different connectors, noting their functions and identifying which cables will be needed for various components. This step is crucial for understanding the layout and ensuring that I have everything ready for installation. After that, I examined the connections on the motherboard, which typically include the CPU power connector, the main power connector, and various other connectors for peripherals like SATA drives. By assessing these connections, I can plan how the wires will be routed from the back of the case to keep everything organized and maintain good airflow. Proper cable routing will help prevent clutter and ensure that all components receive the necessary power without obstruction.**  
@@ -75,5 +76,14 @@
 
 <div style="display: flex;">
     <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part3/IMG_1048.JPG" alt="Computer Setup" width="500"/>   
+    <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part3/IMG_1123.JPG" alt="Computer Setup" width="500"/>  
 
-    
+---   
+10. **Take care to line the card up with the PCI-E slot before inserting it.**
+
+
+<div style="display: flex;">
+    <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part3/IMG_1122.JPG" alt="Computer Setup" width="500"/>     
+    <img src="https://github.com/GSecAwareness/ComputerBuild/blob/main/part3/IMG_1123.JPG" alt="Computer Setup" width="500"/>    
+
+**Once these steps are complete, try turning the computer on. If there are no problems, it should display video and POST. The next step is to install Windows 10 or 11 onto the computer.  Great job on a challenging project!**
